@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://magento.softwaretestingboard.com/",
+    "email": "beautybeast635@gmail.com",
+    "password": "mangeaAS12",
+    "newPassword": "kapuOL90",
+    "invalidEmail": "invalidemail@example.com",
+    "invalidPassword": "wrongPassword123",
+    "company": "telkom",
+    "telephone": "08774928291",
+    "street": "123 Main St",
+    "region": "New York",
+    "city": "washington",
+    "zip": "01919",
+    "country": "United States"
+}
